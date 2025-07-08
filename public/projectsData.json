@@ -1,0 +1,83 @@
+{
+  "count": 3,
+  "status": 200,
+  "success": true,
+  "message": "Project fetching successfully!",
+  "project": [
+    {
+      "_id": "1",
+      "title": "Task Manager - Full Stack Application",
+      "details": "A full-stack task manager app with authentication and CRUD operations.",
+      "longDetails": "<p>This is a full-stack Task Manager web application that allows users to manage their tasks efficiently. It includes user authentication, profile and task management. Built with React, Redux Toolkit, Node.js, Express.js, MongoDB, and Tailwind CSS.</p>",
+      "category": "react-node-mongo-express-redux",
+      "author": "Khairul Islam",
+      "liveLink": "https://task-manager-app.vercel.app",
+      "sourceCode": "https://github.com/khairul1036/task-manager-frontend",
+      "backendSourceCode": "https://github.com/khairul1036/task-manager-backend",
+      "image": "https://api.empowernextgenbd.com/uploads/686029f3aa1eb_prompt%20war.png",
+      "avatar": "https://api.empowernextgenbd.com/uploads/68602f0997ab7_photo.jpg",
+      "status": "published",
+      "tags": [
+        "react",
+        "redux",
+        "node.js",
+        "express.js",
+        "mongodb",
+        "jwt",
+        "tailwindcss"
+      ],
+      "createdAt": "2025-03-18T08:05:25.196Z",
+      "updatedAt": "2025-03-18T08:05:25.196Z",
+      "slug": "task-manager-full-stack-application",
+      "__v": 0
+    },
+    {
+      "_id": "2",
+      "title": "Next.js Landing Page",
+      "details": "A modern and responsive landing page using Next.js and Tailwind CSS.",
+      "longDetails": "<p>This project is a clean landing page that showcases the power of Next.js and Tailwind CSS. It includes responsive sections, navigation, and a contact form.</p>",
+      "category": "nextjs-tailwind",
+      "author": "Khairul Islam",
+      "liveLink": "https://nextjs-landing.vercel.app",
+      "sourceCode": "https://github.com/khairul1036/nextjs-landing-page",
+      "backendSourceCode": "",
+      "image": "https://api.empowernextgenbd.com/uploads/68602a34886e4_presentation%20faceoff.png",
+      "avatar": "https://api.empowernextgenbd.com/uploads/68602f0997ab7_photo.jpg",
+      "status": "published",
+      "tags": [
+        "next.js",
+        "tailwindcss",
+        "responsive",
+        "landing-page"
+      ],
+      "createdAt": "2025-03-15T10:50:55.321Z",
+      "updatedAt": "2025-03-18T00:13:48.036Z",
+      "slug": "nextjs-landing-page",
+      "__v": 0
+    },
+    {
+      "_id": "3",
+      "title": "Product Showcase - Mini Product Hunt",
+      "details": "Frontend clone of Product Hunt where users can explore and vote for products.",
+      "longDetails": "<p>A frontend application for a Product Hunt clone with product listing, upvoting, and commenting. Admin panel features include coupon management. Built with React, Tailwind CSS, and Firebase.</p>",
+      "category": "react-firebase-tailwind",
+      "author": "Khairul Islam",
+      "liveLink": "https://product-huntapp.vercel.app",
+      "sourceCode": "https://github.com/khairul1036/mini-product-hunt",
+      "backendSourceCode": "https://github.com/khairul1036/mini-product-hunt-api",
+      "image": "https://api.empowernextgenbd.com/uploads/68602ac4a7b84_google%20it.png",
+      "avatar": "https://api.empowernextgenbd.com/uploads/68602f0997ab7_photo.jpg",
+      "status": "published",
+      "tags": [
+        "react",
+        "firebase",
+        "tailwindcss",
+        "product-showcase"
+      ],
+      "createdAt": "2025-01-20T09:49:08.824Z",
+      "updatedAt": "2025-03-18T00:07:30.970Z",
+      "slug": "product-hunt-showcase",
+      "__v": 0
+    }
+  ]
+}

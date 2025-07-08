@@ -7,7 +7,7 @@ import Image from "next/image";
 import { useRef, useState } from "react";
 import { FaLocationDot, FaPhone } from "react-icons/fa6";
 import { MdEmail } from "react-icons/md";
-import { toast } from "react-toastify";
+// import { toast } from "react-toastify";
 
 function Contact() {
   const [formData, setFormData] = useState({
@@ -121,7 +121,7 @@ function Contact() {
                   <p className="text-2xl font-bold md:text-4xl md:leading-10  text-indigo-500">
                     Get in touch
                   </p>
-{/* 
+                  {/* 
                   <p className="mt-4 text-lg">
                     Our friendly team would love to hear from you.
                   </p> */}

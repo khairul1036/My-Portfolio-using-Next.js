@@ -36,7 +36,7 @@ const nextConfig = {
       },
       {
         protocol: "https",
-        hostname: "mdranju.xyz",
+        hostname: "api.empowernextgenbd.com",
         port: "",
       },
     ],

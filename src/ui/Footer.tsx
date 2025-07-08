@@ -21,7 +21,7 @@ function Footer() {
               href="https://github.com/khairul1036"
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="Muhammad Ranju Github Profile"
+              aria-label="Khairul Github Profile"
             >
               <span className="font-bold text-indigo-500 hover:underline ml-1 mr-1">
                 Khairul Islam.
