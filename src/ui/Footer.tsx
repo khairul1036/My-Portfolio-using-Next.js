@@ -30,7 +30,7 @@ function Footer() {
             All rights reserved.
           </p>
 
-          <strong>
+          {/* <strong>
             <a
               href="../../khairul1036.apk"
               target="_blank"
@@ -40,7 +40,7 @@ function Footer() {
               Download App
               <i className="fa-solid fa-download ml-2"></i>
             </a>
-          </strong>
+          </strong> */}
         </div>
       </div>
     </footer>
