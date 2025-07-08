@@ -1,6 +1,7 @@
 import { FeatureThree } from "@/ui/FeatureThree";
 import HeroSection from "@/ui/HeroSection";
 import HireMe from "@/ui/HireMe";
+import { Projects } from "@/ui/Projects";
 
 function home() {
   return (
@@ -9,7 +10,7 @@ function home() {
 
       <HeroSection />
       <FeatureThree />
-      {/* <Projects /> */}
+      <Projects />
       <HireMe />
     </>
   );

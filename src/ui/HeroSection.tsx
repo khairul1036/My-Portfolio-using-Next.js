@@ -23,12 +23,12 @@ import { MdDownload } from "react-icons/md";
 
 /* eslint-disable react/no-unescaped-entities */
 const words = [
-  "Javascript.",
+  "Javascript",
   "Node.js",
   "React.js",
   "Next.js",
-  "Backend.",
-  "Frontend.",
+  "Backend",
+  "Frontend",
 ];
 function HeroSection() {
   return (
@@ -60,8 +60,8 @@ function HeroSection() {
             </h1>
             <h2 className="mt-6 font-bold lg:text-2xl md:text-xl sm:text-lg flex flex-row items-center">
               <span className="">I am a Web App Developer in</span>
-              <div className="text-slate-900">
-                <FlipWords words={words} />
+              <div className="text-indigo-600">
+                <FlipWords className="text-indigo-600" words={words} />
               </div>
             </h2>
             <p className="mt-5  text-base font-semibold lg:w-4/5">
@@ -79,7 +79,7 @@ function HeroSection() {
             </p>
 
             <div className="flex gap-5 mt-5 border-white border-collapse rounded">
-              <a href="/" aria-label="GitHub Icon" target="_blank">
+              <a href="https://github.com/khairul1036" aria-label="GitHub Icon" target="_blank">
                 <FaGithub className="h-7 w-7" />
               </a>
               <a href="/" target="_blank" aria-label="Linkedin Icon">
