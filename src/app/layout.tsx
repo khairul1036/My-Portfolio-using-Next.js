@@ -6,7 +6,7 @@ import { ToastContainer } from "react-toastify";
 import QueryProvider from "@/utils/Provider";
 import ScrollToTop from "@/utils/ScrollToTop/ScrollToTop";
 import Footer from "@/ui/Footer";
-import SplashCursor from "@/components/ui/SplashCursor";
+// import SplashCursor from "@/components/ui/SplashCursor";
 
 
 const space_Grotesk = Source_Sans_3({
@@ -30,7 +30,7 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
-          <SplashCursor />
+          {/* <SplashCursor /> */}
           <div className="bg-slate-100 dark:bg-[#020617] min-h-screen bg-[linear-gradient(to_right,#80808011_1px,transparent_1px),linear-gradient(to_bottom,#80808011_1px,transparent_1px)] bg-[size:14px_24px]   text-gray-800 dark:text-gray-200 ">
             {<Navbar />}
             
