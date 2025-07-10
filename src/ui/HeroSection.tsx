@@ -87,7 +87,7 @@ function HeroSection() {
               >
                 <FaGithub className="h-7 w-7" />
               </a>
-              <a href="/" target="_blank" aria-label="Linkedin Icon">
+              <a href="https://www.linkedin.com/in/khairul-islam1" target="_blank" aria-label="Linkedin Icon">
                 <FaLinkedin className="h-7 w-7" />
               </a>
               <a href="/" aria-label="Twitter Icon" target="_blank">
@@ -96,7 +96,7 @@ function HeroSection() {
             </div>
             <div className="mt-5">
               <div className="flex mt-5 gap-x-2 border-white border-collapse rounded">
-                <a href="/" target="_blank" download="">
+                <a href="https://drive.google.com/file/d/17tM0LmMI-KuodoGL0JKgU7Edp71vgNcf/view?usp=sharing" target="_blank" download="../../public/Resume_of_Khairul_Islam_Web_Developer.pdf">
                   <ShimmerButton className="shadow-2xl">
                     <span className="whitespace-pre-wrap flex items-center text-center text-sm font-medium leading-none tracking-tight text-white dark:from-white dark:to-slate-900/10 lg:text-base">
                       My Resume
