@@ -101,6 +101,64 @@
       "updatedAt": "2025-07-09T11:00:00.000Z",
       "slug": "task-management-app-firebase-mongodb",
       "__v": 0
+    },
+    {
+      "_id": "4",
+      "title": "TaskEarn - Micro-tasking & Earning Platform",
+      "details": "A secure and scalable platform connecting workers and buyers for completing micro-tasks and earning rewards.",
+      "longDetails": "<p><strong>TaskEarn</strong> is a micro-tasking and earning platform built with a multi-role system (Admin, Buyer, Worker). It allows buyers to post tasks, workers to complete them, and admins to manage the system efficiently.</p><ul><li><strong>Multi-Role System:</strong> Buyer, Worker, and Admin roles with separate dashboards and privileges.</li><li><strong>Responsive UI:</strong> Fully responsive across all device sizes.</li><li><strong>Authentication:</strong> Email/password login and Google Sign-in with Firebase.</li><li><strong>Task Management:</strong> Buyers can post tasks with detailed instructions. Workers can apply and complete them for coins.</li><li><strong>Stripe Payments:</strong> Buyers can purchase coins using Stripe.</li><li><strong>Withdrawals:</strong> Workers can withdraw coins once a threshold is met.</li><li><strong>Admin Controls:</strong> Manage users, tasks, reviews, and withdrawal requests.</li><li><strong>Real-Time Notifications:</strong> Keeps users updated on status changes.</li><li><strong>Pagination and Filtering:</strong> Efficient search and task discovery experience.</li><li><strong>Security:</strong> Environment variables used to manage sensitive credentials.</li></ul><h3>🛠️ Technologies Used</h3><ul><li><strong>Frontend:</strong> React.js, Tailwind CSS</li><li><strong>Backend:</strong> Express.js, Node.js</li><li><strong>Database:</strong> MongoDB with Mongoose</li><li><strong>Authentication:</strong> Firebase</li><li><strong>Payments:</strong> Stripe</li><li><strong>Hosting:</strong> Firebase (Client), Vercel (Server)</li></ul><h3>📂 Repositories</h3><ul><li><a href='https://github.com/user/taskearn-client' target='_blank'>Client Repository</a></li><li><a href='https://github.com/user/taskearn-server' target='_blank'>Server Repository</a></li></ul>",
+      "category": "react-node-mongo-express-firebase-stripe",
+      "author": "Khairul Islam",
+      "liveLink": "https://taskearn-9782e.web.app",
+      "sourceCode": "https://github.com/khairul1036/Micro-Task-and-Earning-Platform-Client-Side",
+      "backendSourceCode": "https://github.com/khairul1036/Micro-Task-and-Earning-Platform-Server-Side",
+      "image": "https://i.postimg.cc/cCGZGYpx/image.png",
+      "avatar": "https://api.empowernextgenbd.com/uploads/68602f0997ab7_photo.jpg",
+      "status": "published",
+      "tags": [
+        "react",
+        "express.js",
+        "node.js",
+        "mongodb",
+        "firebase",
+        "stripe",
+        "tailwindcss",
+        "jwt"
+      ],
+      "createdAt": "2025-07-09T11:30:00.000Z",
+      "updatedAt": "2025-07-09T11:30:00.000Z",
+      "slug": "taskearn-micro-task-platform",
+      "__v": 0
+    },
+    {
+      "_id": "5",
+      "title": "Cleanify - House Cleaning Services",
+      "details": "A user-friendly platform for managing, browsing, and booking house cleaning services.",
+      "longDetails": "<p><strong>Cleanify</strong> is a house cleaning services web application that allows users to:</p><ul><li>Add, update, and delete their own services.</li><li>Browse cleaning services shared by others.</li><li>View detailed information about available services.</li><li>Book services and manage booking statuses in real time.</li></ul><h3>🛠️ Features</h3><ul><li><strong>Service Management:</strong> Full CRUD operations for user-submitted services.</li><li><strong>Service Browsing:</strong> Explore services posted by others in the community.</li><li><strong>Service Booking:</strong> Book services with real-time status updates.</li><li><strong>Status Updates:</strong> Track the progress of your bookings easily.</li></ul><h3>🧱 Technologies Used</h3><ul><li><strong>Frontend:</strong> React.js, Tailwind CSS</li><li><strong>Backend:</strong> Node.js, Express.js</li><li><strong>Database:</strong> MongoDB</li></ul><h4>📦 Dependencies</h4><ul><li>toast: for real-time user notifications</li><li>data-aos: scroll-based animations</li><li>date-fns: date formatting and manipulation</li><li>sweet2: user-friendly modal alerts</li></ul><h3>📂 Repositories</h3><ul><li><a href='https://github.com/khairul1036/Cleanify-Website' target='_blank'>Client Repository</a></li><li><a href='https://github.com/khairul1036/Cleanify-Website-Server' target='_blank'>Server Repository</a></li></ul>",
+      "category": "react-node-express-mongo-tailwind",
+      "author": "Khairul Islam",
+      "liveLink": "https://a11service.web.app",
+      "sourceCode": "https://github.com/khairul1036/Cleanify-Website",
+      "backendSourceCode": "https://github.com/khairul1036/Cleanify-Website-Server",
+      "image": "https://i.postimg.cc/Jzhz7N2K/image.png",
+      "avatar": "https://api.empowernextgenbd.com/uploads/68602f0997ab7_photo.jpg",
+      "status": "published",
+      "tags": [
+        "react",
+        "node.js",
+        "express.js",
+        "mongodb",
+        "tailwindcss",
+        "date-fns",
+        "toast",
+        "data-aos",
+        "sweetalert2"
+      ],
+      "createdAt": "2025-07-09T13:00:00.000Z",
+      "updatedAt": "2025-07-09T13:00:00.000Z",
+      "slug": "cleanify-house-cleaning-services",
+      "__v": 0
     }
+
   ]
 }
