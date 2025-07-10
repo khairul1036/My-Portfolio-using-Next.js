@@ -32,6 +32,7 @@ function Project() {
 
   return (
     <>
+      <title>Khairul Islam | Projects</title>
       <div className="relative overflow-hidden bg-slate-100 dark:bg-[#020617]  py-20">
         {/* <ScrollProgress className="top-[0px]" /> */}
         <Meteors number={30} />

@@ -39,6 +39,11 @@ const nextConfig = {
         hostname: "api.empowernextgenbd.com",
         port: "",
       },
+      {
+        protocol: "https",
+        hostname: "i.postimg.cc",
+        port: "",
+      },
     ],
   },
 };

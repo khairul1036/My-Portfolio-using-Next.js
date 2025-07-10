@@ -92,11 +92,13 @@ const ProjectPage = ({ project }: ProjectPageProps) => {
                 {project?.tags.map((tag: string) => (
                   <button
                     key={tag}
-                    className="w-fit h-10 px-2 flex text-xs items-center justify-center border rounded-full "
+                    className="w-fit h-10 px-2 flex text-xs items-center justify-center border rounded-full bg-gradient-to-r from-fuchsia-500/ from-10% via-violet-500 via-30% to-sky-500 to-90% font-bold"
                   >
                     {tag}
                   </button>
+                  
                 ))}
+                
               </div>
             </div>
           </div>
