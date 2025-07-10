@@ -158,7 +158,31 @@
       "updatedAt": "2025-07-09T13:00:00.000Z",
       "slug": "cleanify-house-cleaning-services",
       "__v": 0
+    },
+    {
+      "_id": "6",
+      "title": "Pro Skills Battle - Competition Website",
+      "details": "A responsive competition platform where users can register, track payments, and view leaderboards.",
+      "longDetails": "<p><strong>Pro Skills Battle</strong> is a modern competition platform built for a company to manage skill-based contests. It offers an intuitive user experience with real-time updates and sleek UI.</p><h3>🚀 Features</h3><ul><li><strong>Responsive Design:</strong> Works seamlessly across desktop, tablet, and mobile.</li><li><strong>User Registration:</strong> Participants can register directly through the website.</li><li><strong>Payment Status:</strong> Users can check their registration payment updates.</li><li><strong>Leaderboard:</strong> Displays a clean and dynamic leaderboard across all categories.</li><li><strong>Committee Page:</strong> Showcases the list of committee members and contributors.</li></ul><h3>🔧 Technologies Used</h3><ul><li><strong>Frontend:</strong> React.js, Tailwind CSS, SweetAlert2</li><li><strong>Backend:</strong> Google Sheets as a database via Google Apps Script (API)</li></ul><h3>🔗 Repository</h3><ul><li><em>Private or internal use. No public repo provided.</em></li></ul>",
+      "category": "react-tailwind-sweetalert2-google-sheet",
+      "author": "Your Name",
+      "liveLink": "https://empowernextgenbd.com",
+      "sourceCode": "",
+      "backendSourceCode": "",
+      "image": "https://i.postimg.cc/kGsDfq4v/image.png",
+      "avatar": "https://api.empowernextgenbd.com/uploads/68602f0997ab7_photo.jpg",
+      "status": "published",
+      "tags": [
+        "react",
+        "tailwindcss",
+        "sweetalert2",
+        "google sheets",
+        "google apps script"
+      ],
+      "createdAt": "2025-07-09T14:00:00.000Z",
+      "updatedAt": "2025-07-09T14:00:00.000Z",
+      "slug": "pro-skills-battle-competition-site",
+      "__v": 0
     }
-
   ]
 }

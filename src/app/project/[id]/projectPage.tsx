@@ -88,7 +88,7 @@ const ProjectPage = ({ project }: ProjectPageProps) => {
           <div className="flex mt-4">
             <div>
               <div className="flex space-x-2 mt-2 flex-wrap items-center">
-                <span className="font-semibold ">Tags:</span>
+                <span className="font-semibold ">Technologies:</span>
                 {project?.tags.map((tag: string) => (
                   <button
                     key={tag}
