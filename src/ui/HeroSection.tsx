@@ -64,22 +64,27 @@ function HeroSection() {
                 <FlipWords className="text-indigo-600" words={words} />
               </div>
             </h2>
-            <p className="mt-5  text-base font-semibold lg:w-4/5">
-              Welcome to my portfolio! I hope you enjoy your visit. I specialize
-              in Back-End development with Node.js and Front-End development
-              with React.js. I have worked on various projects, including a Real{" "}
+            <p className="mt-5 text-base font-semibold lg:w-4/5">
+              Thanks for stopping by my portfolio. I'm a passionate developer
+              skilled in both{" "}
+              <span className="text-indigo-600">Back-End (Node.js)</span> and{" "}
+              <span className="text-indigo-600">Front-End (React.js)</span>{" "}
+              development. Over time, I’ve built several projects like a Real{" "}
               <span className="text-indigo-600">Link-Shortener</span>,
-              E-Commerce APIs,{" "}
-              <span className="text-indigo-600">React-based</span> Website
-              Design and Development, and more.
-              <br />I am passionate about learning new technologies and building
-              solutions that make a difference. Thank you for visiting my
-              portfolio! I hope you like my work.{" "}
+              E-Commerce APIs, and modern{" "}
+              <span className="text-indigo-600">React-based</span> websites.
+              <br />I love diving into new technologies, solving problems, and
+              building tools that actually help people. Thanks again for
+              visiting. I hope you enjoy exploring my work.{" "}
               <span className="text-yellow-500">Happy coding!</span> 🧑🏻‍💻
             </p>
 
             <div className="flex gap-5 mt-5 border-white border-collapse rounded">
-              <a href="https://github.com/khairul1036" aria-label="GitHub Icon" target="_blank">
+              <a
+                href="https://github.com/khairul1036"
+                aria-label="GitHub Icon"
+                target="_blank"
+              >
                 <FaGithub className="h-7 w-7" />
               </a>
               <a href="/" target="_blank" aria-label="Linkedin Icon">
@@ -91,11 +96,7 @@ function HeroSection() {
             </div>
             <div className="mt-5">
               <div className="flex mt-5 gap-x-2 border-white border-collapse rounded">
-                <a
-                  href="/"
-                  target="_blank"
-                  download=""
-                >
+                <a href="/" target="_blank" download="">
                   <ShimmerButton className="shadow-2xl">
                     <span className="whitespace-pre-wrap flex items-center text-center text-sm font-medium leading-none tracking-tight text-white dark:from-white dark:to-slate-900/10 lg:text-base">
                       My Resume

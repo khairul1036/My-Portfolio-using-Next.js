@@ -24,7 +24,7 @@ function About() {
               fill="currentColor"
               preserveAspectRatio="none slice"
             >
-              <path d="M50 0H100L50 100H0L50 0Z" />
+              <path d="M50 0H100L10 60H0L50 0Z" />
             </svg>
             <Image
               width={500}
