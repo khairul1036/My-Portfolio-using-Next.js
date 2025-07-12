@@ -183,6 +183,91 @@
       "updatedAt": "2025-07-09T14:00:00.000Z",
       "slug": "pro-skills-battle-competition-site",
       "__v": 0
+    },
+    {
+      "_id": "7",
+      "title": "Movie Portal",
+      "details": "A user-friendly platform to browse, rate, and save your favorite movies with Google login support.",
+      "longDetails": "<p><strong>Movie Portal</strong> is an engaging movie browsing web app where users can discover films, manage their favorites, and contribute to the collection. With a clean design and user authentication, the platform ensures a smooth and secure user experience.</p><h3>🚀 Features</h3><ul><li><strong>Dynamic Movie Exploration:</strong> Users can browse movies, view details, and rate them using an intuitive star rating system.</li><li><strong>Private Routes:</strong> Pages like 'Add Movie' and 'My Favorites' are protected for authenticated users only.</li><li><strong>Authentication:</strong> Google Sign-In and standard email registration for quick and secure access.</li><li><strong>Favorites:</strong> Users can add and manage their favorite movies in a personal list.</li><li><strong>Search & Filter:</strong> Quickly locate movies by title with a responsive search feature.</li></ul><h3>🌟 Additional Features</h3><ul><li>Dark/Light Mode toggle</li><li>404 Not Found page for invalid routes</li><li>Loading spinner during async operations</li><li>Robust form validation for movie entries</li></ul><h3>🧱 Technologies Used</h3><ul><li><strong>Frontend:</strong> React.js, React Router</li><li><strong>Styling:</strong> Tailwind CSS</li><li><strong>Authentication:</strong> Firebase (Google Login)</li><li><strong>Other Libraries:</strong> React Simple Star Rating, React Toastify</li></ul><h3>📂 Pages Included</h3><ul><li>Home</li><li>All Movies</li><li>Add Movie</li><li>My Favorites</li><li>Movie Details</li><li>Login / Register</li></ul>",
+      "category": "react-tailwind-firebase",
+      "author": "Your Name",
+      "liveLink": "https://movie-portal-90500.web.app",
+      "sourceCode": "https://github.com/khairul1036/Movie-Portal-Client",
+      "backendSourceCode": "https://github.com/khairul1036/Movie-Portal-Server",
+      "image": "https://i.postimg.cc/cLhTkrrP/image.png",
+      "avatar": "https://api.empowernextgenbd.com/uploads/68602f0997ab7_photo.jpg",
+      "status": "published",
+      "tags": [
+        "react",
+        "firebase",
+        "tailwindcss",
+        "react-router",
+        "Node.js",
+        "MongoDB",
+        "toastify",
+        "Express.js",
+        "dark-mode"
+      ],
+      "createdAt": "2025-07-09T16:00:00.000Z",
+      "updatedAt": "2025-07-09T16:00:00.000Z",
+      "slug": "movie-portal-app",
+      "__v": 0
+    },
+    {
+      "_id": "8",
+      "title": "Gadget Heaven",
+      "details": "An online gadget shop offering the latest electronics with features like wishlist, add-to-cart, filtering, and dynamic data display.",
+      "longDetails": "<p><strong>Gadget Heaven</strong> is an e-commerce web application that delivers a seamless tech shopping experience. It showcases a wide variety of electronic gadgets with features such as filtering by category, wishlist saving, and add-to-cart functionality. Built with core React concepts and optimized for responsive design.</p><h3>🔑 Key Features</h3><ul><li><strong>Responsive Design:</strong> Fully optimized for all screen sizes.</li><li><strong>Dynamic Data:</strong> Fetches and renders products from external APIs.</li><li><strong>Filter by Category:</strong> Lets users quickly narrow down product selections.</li><li><strong>Add to Cart:</strong> Users can build a shopping cart with desired gadgets.</li><li><strong>Wishlist:</strong> Save favorite products for future purchases.</li><li><strong>Checkout Flow:</strong> Purchase gadgets through a seamless interface.</li></ul><h3>⚛️ React Fundamentals Used</h3><ul><li><strong>Components:</strong> Modular, reusable UI pieces.</li><li><strong>JSX:</strong> Writing UI using JavaScript syntax extensions.</li><li><strong>Props & State:</strong> Dynamic and interactive UI rendering.</li><li><strong>Hooks:</strong> <code>useState</code> and <code>useEffect</code> for state and side effects.</li><li><strong>Local Storage:</strong> Persist user selections across sessions.</li></ul><h3>🛠️ Tech Stack</h3><ul><li><strong>Frontend:</strong> React.js</li><li><strong>Styling:</strong> CSS3 / Tailwind (if applicable)</li><li><strong>State & Data Management:</strong> useState, useEffect, LocalStorage</li></ul><h3>📄 Additional Resources</h3><ul><li><a href='https://github.com/khairul1036/Gadget-Heaven-website'>Source Code</a></li><li><a href='#'>Requirement Document</a> (optional)</li></ul>",
+      "category": "react-ecommerce",
+      "author": "Khairul Islam",
+      "liveLink": "https://gadget8.netlify.app",
+      "sourceCode": "https://github.com/khairul1036/Gadget-Heaven-website",
+      "backendSourceCode": "",
+      "image": "https://i.postimg.cc/43XqnD9R/image.png",
+      "avatar": "https://api.empowernextgenbd.com/uploads/68602f0997ab7_photo.jpg",
+      "status": "published",
+      "tags": [
+        "react",
+        "ecommerce",
+        "localstorage",
+        "responsive",
+        "hooks",
+        "add-to-cart",
+        "wishlist",
+        "category-filter"
+      ],
+      "createdAt": "2025-07-09T17:30:00.000Z",
+      "updatedAt": "2025-07-09T17:30:00.000Z",
+      "slug": "gadget-heaven-ecommerce-site",
+      "__v": 0
+    },
+    {
+      "_id": "9",
+      "title": "Eco-Adventure",
+      "details": "A sustainable tourism platform promoting eco-friendly travel experiences with expert consultation and interactive adventure details.",
+      "longDetails": "<p><strong>Eco-Adventure</strong> is a green travel-focused platform designed to promote sustainable tourism experiences such as mountain treks, ocean dives, and other environmentally responsible adventures. Users can register, manage profiles, explore adventures, and consult eco-tourism experts based on availability.</p><h3>🚀 Key Features</h3><ul><li><strong>Authentication:</strong> Login, registration, and password reset functionality.</li><li><strong>Profile Management:</strong> Update name, profile photo, and basic details.</li><li><strong>Adventure Listings:</strong> View adventure descriptions with environmental impact highlights.</li><li><strong>Consult with Experts:</strong> Book time-based consultations with eco-guides.</li><li><strong>Responsive UI:</strong> Optimized layout with hover animations and interactive design.</li><li><strong>Eco-Friendly Emphasis:</strong> Platform encourages responsible travel behavior and education.</li></ul><h3>🛠️ Tech Stack</h3><ul><li><strong>Frontend:</strong> React.js</li><li><strong>Styling:</strong> Tailwind CSS, DaisyUI</li><li><strong>Animations:</strong> animate.css</li><li><strong>Time Handling:</strong> moment.js</li></ul><h3>📂 Project Resources</h3><ul><li><a href='https://eco-adventure-live-site.com'>Live Demo</a></li><li><a href='https://github.com/khairul1036/Eco-Avanture'>Source Code (Client)</a></li></ul>",
+      "category": "react-eco-travel",
+      "author": "Khairul Islam",
+      "liveLink": "https://eco-adventure-experience-6f026.web.app",
+      "sourceCode": "https://github.com/khairul1036/Eco-Avanture",
+      "backendSourceCode": "",
+      "image": "https://i.postimg.cc/85J2Vhv7/image.png",
+      "avatar": "https://api.empowernextgenbd.com/uploads/68602f0997ab7_photo.jpg",
+      "status": "published",
+      "tags": [
+        "react",
+        "tailwindcss",
+        "daisyui",
+        "eco-tourism",
+        "moment.js",
+        "authentication",
+        "responsive-design"
+      ],
+      "createdAt": "2025-07-09T18:10:00.000Z",
+      "updatedAt": "2025-07-09T18:10:00.000Z",
+      "slug": "eco-adventure-tourism-platform",
+      "__v": 0
     }
+
   ]
 }
