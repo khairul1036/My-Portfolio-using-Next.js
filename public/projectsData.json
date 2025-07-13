@@ -267,7 +267,34 @@
       "updatedAt": "2025-07-09T18:10:00.000Z",
       "slug": "eco-adventure-tourism-platform",
       "__v": 0
+    },
+    {
+      "_id": "10",
+      "title": "Tic-Tac-Toe Game",
+      "details": "A fun, interactive, and responsive Tic-Tac-Toe game built with HTML, CSS, and JavaScript for two players.",
+      "longDetails": "<p><strong>Tic-Tac-Toe Game</strong> is a simple yet engaging web-based game that allows two players to take turns placing their marks (X or O) on a 3x3 grid. It features a modern UI with smooth animations, winning/draw detection, and responsive design for both desktop and mobile users.</p><h3>🚀 Key Features</h3><ul><li>✅ Beautiful and modern UI with CSS animations</li><li>✅ Winning and draw detection logic implemented</li><li>✅ Restart game functionality to reset the board</li><li>✅ Dynamic display of which player's turn it is</li><li>✅ Fully responsive for all device sizes</li></ul><h3>🎮 How to Play</h3><ul><li>Player X starts the game.</li><li>Players take turns clicking empty cells to mark X or O.</li><li>First to align 3 symbols in a row, column, or diagonal wins.</li><li>If all cells are filled with no winner, the game is a draw.</li><li>Click 'Restart Game' to play again.</li></ul><h3>🛠️ Future Improvements</h3><ul><li>🔊 Add sound effects for clicks and wins</li><li>🤖 Implement single-player mode with AI bot</li><li>✨ Highlight winning row or column with animation</li><li>🌙 Add a dark mode toggle</li></ul><h3>📂 Project Setup</h3><ol><li>Clone repo: <code>git clone https://github.com/khairul1036/Tic-Tac-Toe-Website-Game.git</code></li><li>Navigate to folder: <code>cd Tic-Tac-Toe-Website-Game</code></li><li>Open <code>index.html</code> in a browser</li></ol>",
+      "category": "html-css-js",
+      "author": "Khairul Islam",
+      "liveLink": "https://tic-tac-toe-scikodex.netlify.app",
+      "sourceCode": "https://github.com/khairul1036/Tic-Tac-Toe-Website-Game",
+      "backendSourceCode": "",
+      "image": "https://i.postimg.cc/bJzQLvWY/image.png",
+      "avatar": "https://api.empowernextgenbd.com/uploads/68602f0997ab7_photo.jpg",
+      "status": "published",
+      "tags": [
+        "html",
+        "css",
+        "javascript",
+        "responsive-design",
+        "tic-tac-toe",
+        "game"
+      ],
+      "createdAt": "2025-07-09T19:30:00.000Z",
+      "updatedAt": "2025-07-09T19:30:00.000Z",
+      "slug": "tic-tac-toe-javascript-game",
+      "__v": 0
     }
+
 
   ]
 }
